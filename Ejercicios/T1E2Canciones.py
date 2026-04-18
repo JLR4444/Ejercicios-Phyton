@@ -1,10 +1,13 @@
 #Información canción favorita
+
 #Cadena
 Título = "Despacito"
 Artista = "Luis Fonsi & Daddy Yankee"
 Álbum = "Despacito"
+
 #Numeros (int)
 Año = 2017
+
 #Numeros con decimales (float)
 Duración_segundos = 247.2
 

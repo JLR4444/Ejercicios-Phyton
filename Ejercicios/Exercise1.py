@@ -1,11 +1,14 @@
 #Información película favorita
+
 #Cadena
 Título = "Harry Potter and the Prisoner of Azkaban"
 Director = "Alfonso Cuarón"
 Genero = "Fantasy"
+
 #Numeros (int)
 Año = 2004
 Duración_minutos = 142
+
 #Numeros con decimales (float)
 
 #Booleanos (True o False)
