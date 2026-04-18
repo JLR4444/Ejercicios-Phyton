@@ -1,0 +1,27 @@
+#Definir los precios
+precio_camiseta = 10
+precio_sudadera = 20.5
+precio_gorra = 5.5
+
+#Pedir cantidades de cada artículo
+cantidad_camisetas = input("Cuantas camisetas quieres? ")
+cantidad_sudaderas = input("Cuantas sudaderas quieres? ")
+cantidad_gorras = input("Cuantas gorras quieres? ")
+
+#Total de la compra
+precio_camiseta * cantidad_camisetas
+precio_sudadera * cantidad_sudaderas
+precio_gorra * cantidad_gorras
+
+#Añade el 21% de IVA al total.
+iva = total * 0.21
+
+#Precio final   --> NO SE COMO SERÍA
+
+
+#Imprimimos los resultados   --> NO SE COMO SERÍA
+print(" ", )
+print(" ", )
+print(" ", )
+print(" ", )
+print(" ", )
