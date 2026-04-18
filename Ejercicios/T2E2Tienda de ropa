@@ -16,10 +16,10 @@ precio_gorra * cantidad_gorras
 #Añade el 21% de IVA al total.
 iva = total * 0.21
 
-#Precio final   --> NO SE COMO SERÍA
+#Precio final   --> DUDO SI SERÍA CORRECTO
+precio_final = precio_total + iva * 0.21
 
-
-#Imprimimos los resultados   --> NO SE COMO SERÍA
+#Imprimimos los resultados   --> NO SE COMO SERÍA... HABRIA QUE PREGUNTAR O AÑADIR LAS CANTIDADES NO?
 print(" ", )
 print(" ", )
 print(" ", )
