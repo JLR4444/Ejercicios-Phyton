@@ -1,6 +1,7 @@
 #Pide a la usuaria cuántas notas desea introducir. 
 cantidad = int(input("¿Cuántas notas quieres introducir?: "))
 
+suma = 0
 
 for i in range(cantidad):
     nota = float(input("Introduce una nota: "))
